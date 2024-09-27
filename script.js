@@ -1,7 +1,7 @@
 //your JS code here. If required.
- document
-        .getElementById("removeButton")
-        .addEventListener("click", function () {
+ document.getElementById("removeButton").addEventListener("click", function () {
+      
+       
           const colorSelect = document.getElementById("colorSelect");
           const selectedIndex = colorSelect.selectedIndex;
 
